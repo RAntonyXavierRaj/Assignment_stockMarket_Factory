@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb87a806-d016-4381-a95d-7522984568de" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/assignmentFactory$abs_stock.coverage" NAME="abs_stock Coverage Results" MODIFIED="1510258722433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stocks" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="abs_stock.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stocks/abs_stock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ale.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stocks/ale.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python/#C:/Users/rubha/Desktop/Job Applications/JP Morgan/assignmentFactory/stocks" pinned="false" current-in-tab="false">
+        <entry file="uml://Python/#C:/Users/rubha/Desktop/Job Applications/JP Morgan/assignmentFactory/stocks">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#C:/Users/rubha/Desktop/Job Applications/JP Morgan/assignmentFactory/stocks</OriginalElement>
+              <nodes>
+                <node x="558.0" y="1928.0">stocks.joe.Joe</node>
+                <node x="186.0" y="1928.0">stocks.gin.Gin</node>
+                <node x="251.5" y="878.5">metaclass</node>
+                <node x="400.5" y="786.0">abc.ABCMeta</node>
+                <node x="744.0" y="1928.0">stocks.pop.Pop</node>
+                <node x="247.2986111111111" y="0.0">_collections_abc.Hashable</node>
+                <node x="230.0" y="1498.0">stocks.parentStockFunctions.ParentStockFunctions</node>
+                <node x="255.0" y="1068.0">stocks.abs_stock.AbsStock</node>
+                <node x="372.0" y="1928.0">stocks.ale.Ale</node>
+                <node x="0.0" y="1928.0">stocks.tea.Tea</node>
+                <node x="196.2986111111111" y="171.0">object</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="object" target="_collections_abc.Hashable">
+                  <point x="0.0" y="-282.5" />
+                  <point x="0.0" y="60.5" />
+                </edge>
+                <edge source="stocks.parentStockFunctions.ParentStockFunctions" target="stocks.abs_stock.AbsStock">
+                  <point x="0.0" y="-190.0" />
+                  <point x="0.0" y="190.0" />
+                </edge>
+                <edge source="stocks.tea.Tea" target="stocks.parentStockFunctions.ParentStockFunctions">
+                  <point x="0.0" y="-42.0" />
+                  <point x="83.0" y="1898.0" />
+                  <point x="275.0" y="1898.0" />
+                  <point x="-180.0" y="190.0" />
+                </edge>
+                <edge source="stocks.joe.Joe" target="stocks.parentStockFunctions.ParentStockFunctions">
+                  <point x="0.0" y="-42.0" />
+                  <point x="641.0" y="1908.0" />
+                  <point x="545.0" y="1908.0" />
+                  <point x="90.0" y="190.0" />
+                </edge>
+                <edge source="stocks.gin.Gin" target="stocks.parentStockFunctions.ParentStockFunctions">
+                  <point x="0.0" y="-42.0" />
+                  <point x="269.0" y="1908.0" />
+                  <point x="365.0" y="1908.0" />
+                  <point x="-90.0" y="190.0" />
+                </edge>
+                <edge source="stocks.pop.Pop" target="stocks.parentStockFunctions.ParentStockFunctions">
+                  <point x="0.0" y="-42.0" />
+                  <point x="831.0" y="1898.0" />
+                  <point x="635.0" y="1898.0" />
+                  <point x="180.0" y="190.0" />
+                </edge>
+                <edge source="metaclass" target="object">
+                  <point x="0.0" y="-23.5" />
+                  <point x="315.5" y="761.0" />
+                  <point x="287.2986111111111" y="761.0" />
+                  <point x="-91.0" y="282.5" />
+                </edge>
+                <edge source="stocks.ale.Ale" target="stocks.parentStockFunctions.ParentStockFunctions">
+                  <point x="0.0" y="-42.0" />
+                  <point x="0.0" y="190.0" />
+                </edge>
+                <edge source="stocks.abs_stock.AbsStock" target="abc.ABCMeta">
+                  <point x="133.33333333333337" y="-190.0" />
+                  <point x="588.3333333333334" y="1043.0" />
+                  <point x="594.5" y="1043.0" />
+                  <point x="0.0" y="116.0" />
+                </edge>
+                <edge source="stocks.abs_stock.AbsStock" target="metaclass">
+                  <point x="-133.33333333333337" y="-190.0" />
+                  <point x="321.66666666666663" y="1043.0" />
+                  <point x="315.5" y="1043.0" />
+                  <point x="0.0" y="23.5" />
+                </edge>
+                <edge source="stocks.abs_stock.AbsStock" target="object">
+                  <point x="0.0" y="-190.0" />
+                  <point x="455.0" y="1043.0" />
+                  <point x="390.0" y="1043.0" />
+                  <point x="390.0" y="761.0" />
+                  <point x="469.2986111111111" y="761.0" />
+                  <point x="91.0" y="282.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-103.0" y="-15.0" />
+              <SelectedNodes>
+                <node>stocks.tea.Tea</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Methods</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/stocks/ale.py" />
+        <option value="$PROJECT_DIR$/stocks/abs_stock.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1400" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignmentFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignmentFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignmentFactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignmentFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="stocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.abs_stock">
+    <configuration name="abs_stock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stocks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="assignmentFactory" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stocks/abs_stock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.abs_stock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb87a806-d016-4381-a95d-7522984568de" name="Default" comment="" />
+      <created>1510252990842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510252990842</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17916666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3993174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/stocks/ale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#C:/Users/rubha/Desktop/Job Applications/JP Morgan/assignmentFactory/stocks">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/rubha/Desktop/Job Applications/JP Morgan/assignmentFactory/stocks</OriginalElement>
+          <nodes>
+            <node x="558.0" y="1928.0">stocks.joe.Joe</node>
+            <node x="186.0" y="1928.0">stocks.gin.Gin</node>
+            <node x="251.5" y="878.5">metaclass</node>
+            <node x="400.5" y="786.0">abc.ABCMeta</node>
+            <node x="744.0" y="1928.0">stocks.pop.Pop</node>
+            <node x="247.2986111111111" y="0.0">_collections_abc.Hashable</node>
+            <node x="230.0" y="1498.0">stocks.parentStockFunctions.ParentStockFunctions</node>
+            <node x="255.0" y="1068.0">stocks.abs_stock.AbsStock</node>
+            <node x="372.0" y="1928.0">stocks.ale.Ale</node>
+            <node x="0.0" y="1928.0">stocks.tea.Tea</node>
+            <node x="196.2986111111111" y="171.0">object</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="object" target="_collections_abc.Hashable">
+              <point x="0.0" y="-282.5" />
+              <point x="0.0" y="60.5" />
+            </edge>
+            <edge source="stocks.parentStockFunctions.ParentStockFunctions" target="stocks.abs_stock.AbsStock">
+              <point x="0.0" y="-190.0" />
+              <point x="0.0" y="190.0" />
+            </edge>
+            <edge source="stocks.tea.Tea" target="stocks.parentStockFunctions.ParentStockFunctions">
+              <point x="0.0" y="-42.0" />
+              <point x="83.0" y="1898.0" />
+              <point x="275.0" y="1898.0" />
+              <point x="-180.0" y="190.0" />
+            </edge>
+            <edge source="stocks.joe.Joe" target="stocks.parentStockFunctions.ParentStockFunctions">
+              <point x="0.0" y="-42.0" />
+              <point x="641.0" y="1908.0" />
+              <point x="545.0" y="1908.0" />
+              <point x="90.0" y="190.0" />
+            </edge>
+            <edge source="stocks.gin.Gin" target="stocks.parentStockFunctions.ParentStockFunctions">
+              <point x="0.0" y="-42.0" />
+              <point x="269.0" y="1908.0" />
+              <point x="365.0" y="1908.0" />
+              <point x="-90.0" y="190.0" />
+            </edge>
+            <edge source="stocks.pop.Pop" target="stocks.parentStockFunctions.ParentStockFunctions">
+              <point x="0.0" y="-42.0" />
+              <point x="831.0" y="1898.0" />
+              <point x="635.0" y="1898.0" />
+              <point x="180.0" y="190.0" />
+            </edge>
+            <edge source="metaclass" target="object">
+              <point x="0.0" y="-23.5" />
+              <point x="315.5" y="761.0" />
+              <point x="287.2986111111111" y="761.0" />
+              <point x="-91.0" y="282.5" />
+            </edge>
+            <edge source="stocks.ale.Ale" target="stocks.parentStockFunctions.ParentStockFunctions">
+              <point x="0.0" y="-42.0" />
+              <point x="0.0" y="190.0" />
+            </edge>
+            <edge source="stocks.abs_stock.AbsStock" target="abc.ABCMeta">
+              <point x="133.33333333333337" y="-190.0" />
+              <point x="588.3333333333334" y="1043.0" />
+              <point x="594.5" y="1043.0" />
+              <point x="0.0" y="116.0" />
+            </edge>
+            <edge source="stocks.abs_stock.AbsStock" target="metaclass">
+              <point x="-133.33333333333337" y="-190.0" />
+              <point x="321.66666666666663" y="1043.0" />
+              <point x="315.5" y="1043.0" />
+              <point x="0.0" y="23.5" />
+            </edge>
+            <edge source="stocks.abs_stock.AbsStock" target="object">
+              <point x="0.0" y="-190.0" />
+              <point x="455.0" y="1043.0" />
+              <point x="390.0" y="1043.0" />
+              <point x="390.0" y="761.0" />
+              <point x="469.2986111111111" y="761.0" />
+              <point x="91.0" y="282.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-103.0" y="-15.0" />
+          <SelectedNodes>
+            <node>stocks.tea.Tea</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stocks/abs_stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
